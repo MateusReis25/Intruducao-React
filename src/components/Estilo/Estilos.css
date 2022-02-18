@@ -1,0 +1,15 @@
+.title{
+    color: rgb(33, 4, 112);
+}
+
+.botao{
+    background-color: rgb(4, 190, 150);
+    color: white;
+    border: none;
+    width: 150px;
+    height: 40px;
+    margin: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+}
